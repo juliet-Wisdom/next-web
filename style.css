@@ -1,0 +1,125 @@
+/*Navigation*/
+ul li{
+    display: inline;
+    padding-left: 5px;
+}
+.cup{
+    float: right;
+
+}
+.second{
+    color: black;
+}
+/*first image*/
+div[class="col-8"]{
+    background-image: url("images/hv2appear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+
+    
+}
+div[class="slide1"]{
+    background-image: url("images/images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+div[class="slide2"]{
+    background-image: url("images/hland.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+/*latest*/
+div[class="row"]{
+    padding: 2px;
+    margin: 2px;
+}
+div[class="bio"]{
+    background-image: url("images/eye\ scope.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkseagreen;
+}
+div[class="scie"]{
+    background-image: url("images/images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkseagreen;
+}
+.text{
+    color: chocolate;
+}
+div[class="tech"]{
+    background-image: url("images/here.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkseagreen;
+}
+div[class="ios"]{
+    background-image: url("images/hland.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.danger{
+    color:red;
+}
+.Ag{
+    background-color: red;
+    display: inline-block;
+}
+.se{
+    background-color: lightpink;
+    color: bold black;
+}
+.hea{
+    color: lightslategray;
+}
+
+.underimage{
+    padding-left: 5px;
+    
+}
+.under2{
+    text-align: center;
+}
+/*that starts from tech*/
+.ios{
+    background-image: url("images/33.PNG");
+}
+.see{
+    margin-right: 0;
+}
+hr{
+    color: red;
+}
+/*seclast*/
+div[class="most"]{
+    background-image: url("images/hv2appear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div[class="glo"]{
+    background-image: url("images/download.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div[class="open"]{
+    background-image: url("images/eye\ scope.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*last1*/
+div[class="mote"]{
+    background-image: url("images/images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div[class="time"]{
+    background-image: url("images/hland.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
